@@ -14,19 +14,19 @@ I received my BS degree in Applied Mathematics and Physics from the [University 
 
 My current research interest is in methods for handling missing data in the context of deep learning. Previously, I worked on developing a method for unsupervised clustering and feature selection of RNA-seq gene expression data.
 <!--
-#Heading 1
-#======
-#Paragraph 1
+Heading 1
+======
+Paragraph 1
 
-#Sub-heading 2a
-#------
-#Paragraph 2a
+Sub-heading 2a
+------
+Paragraph 2a
 
-#**sub-sub-heading**
+**sub-sub-heading**
 
-#Example of figure
-#------
-#Description of figure
-#Example: editing a markdown file for a talk
-#![Editing a markdown file for a talk](/images/editing-talk.png)
+Example of figure
+------
+Description of figure
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 -->
