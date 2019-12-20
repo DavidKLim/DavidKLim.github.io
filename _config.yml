@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "David Lim"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "David Lim"
+description              : &description "PhD Student"
 url                      : https://DavidKLim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DavidKLim/DavidKLim.github.io"
@@ -175,13 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  education:
+  software:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  experience:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,15 +206,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _experience
-  - scope:
-      path: ""
-      type: experience
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,10 +215,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _education
+  # _software
   - scope:
       path: ""
-      type: education
+      type: software
     values:
       layout: single
       author_profile: true
@@ -255,7 +243,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

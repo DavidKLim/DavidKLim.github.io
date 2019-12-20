@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David Lim"
+title: "Current Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

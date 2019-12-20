@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, University of California, Los Angeles, 2013
+* B.S. in Physics, University of California, Los Angeles, 2013
+* Ph.D in Biostatistics, University of North Carolina, Chapel Hill, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017: Data Analyst Intern
+  * Syngenta AG
+  * Projects: Machine learning models for crop yield optimization
+  * Supervisor: Shengchu Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2016: Research Assistant
+  * UNC, Chapel Hill
+  * Projects: COPD X-ray image analysis, Microbiome
+  * Supervisor: Dr. Bahjat Qaqish
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, SAS, Python, C++
+* Linux-based shell scripting
 
 Publications
 ======
