@@ -175,3 +175,9 @@ This allows you to denote <var>variables</var>.
 {% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}
+
+Example of figure
+------
+Description of figure
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
