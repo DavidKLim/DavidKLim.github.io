@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "Chapel Hill, North Carolina"
-  employer         :
+  employer         : Department of Biostatistics
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "deelim@live.unc.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://DavidKLim.github.io"
+  github           : "DavidKLim"
   google_plus      :
   keybase          :
   instagram        :
