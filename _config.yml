@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "David Lim"
   avatar           : "profile.png"
-  bio              : "PhD Student"
+  bio              : "PhD Student\nDepartment of Biostatistics\n UNC, Chapel Hill"
   location         : "Chapel Hill, North Carolina"
-  employer         : "Department of Biostatistics"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "deelim@live.unc.edu"
