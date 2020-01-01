@@ -31,8 +31,8 @@ Work experience
   
 Skills
 ======
-* R, SAS, Python, C++
-* Linux-based shell scripting
+* Computing: R, SAS, Python, C++
+* Languages: English, Korean
 
 Software
 ======
