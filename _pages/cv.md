@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 My CV can be found [here](https://DavidKLim.github.io/files/CV_01_01_20.pdf)
+
 Education
 ======
 * B.S. in Applied Mathematics, University of California, Los Angeles, 2013
