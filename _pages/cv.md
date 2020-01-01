@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* 2016-2017: Data Analyst Intern
+* 2016-2018: Data Analyst Intern
   * Syngenta AG
   * Projects: Machine learning models for crop yield optimization
   * Supervisor: Shengchu Wang
 
-* 2014-2016: Research Assistant
+* 2014-2018: Research Assistant
   * UNC, Chapel Hill
   * Projects: COPD X-ray image analysis, Microbiome
   * Supervisor: Dr. Bahjat Qaqish
