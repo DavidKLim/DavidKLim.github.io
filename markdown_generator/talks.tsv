@@ -1,4 +1,4 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Unsupervised Clustering and Variable Selection for RNA-Seq Data	Talk	talk-1	ENAR, Hyatt Regency Atlanta	2018-03-28	Atlanta, GA		[Abstract](https://www.enar.org/meetings/spring2018/program/Abstracts.pdf)
-FSCseq: Simultaneous Feature Selection and Clustering of RNA-Seq Data	Talk	talk-2	JSM, Colorado Convention Center	2019-08-01	Denver, CO	[Abstract](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305323)
+Unsupervised Clustering and Variable Selection for RNA-Seq Data	Talk	talk-1	ENAR, Hyatt Regency Atlanta	2018-03-28	Atlanta, GA	https://www.enar.org/meetings/spring2018/program/Abstracts.pdf
+FSCseq: Simultaneous Feature Selection and Clustering of RNA-Seq Data	Talk	talk-2	JSM, Colorado Convention Center	2019-08-01	Denver, CO	https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=305323
 
