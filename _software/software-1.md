@@ -1,5 +1,5 @@
 ---
-title: "FSCseq (under development)"
+title: "FSCseq"
 excerpt: "Simultaneous Feature Selection and Clustering of RNA-seq"
 collection: software
 ---
