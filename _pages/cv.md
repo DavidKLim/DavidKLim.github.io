@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](https://DavidKLim.github.io/files/CV_01_01_20.pdf)
+My CV can be found [here](https://DavidKLim.github.io/files/CV.pdf)
 
 Education
 ======
