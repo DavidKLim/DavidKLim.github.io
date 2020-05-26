@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Applied Mathematics, University of California, Los Angeles, 2013
 * B.S. in Physics, University of California, Los Angeles, 2013
-* Ph.D in Biostatistics, University of North Carolina, Chapel Hill, 2020 (expected)
+* Ph.D in Biostatistics, University of North Carolina, Chapel Hill, 2021 (expected)
 
 Work experience
 ======
